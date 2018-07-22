@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int vec[] = {12, 58, 16, 38, 31, 23, 37, 11, 42, 27, 47, 31};
+int vec[] = {12, 58, 16, 38, 31, 23, 37, 11, 42, 27, 47, 39};
 int tamanho = 12;
 int qtd = 0;
 
